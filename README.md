@@ -8,6 +8,7 @@ I've implemented A* alg. that The A* algorithm finds the shortest path between a
 With this set of variables, I obtained:
 
 PUZZLE_DIM = 5 
+
 RANDOMIZE_STEPS = 100_000
 
 | Path len | Number of calls to function "do_action" |
